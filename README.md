@@ -1,4 +1,4 @@
-#Project Title: Guessing Game (File Numbers)
+# Project Title: Guessing Game (File Numbers)
 
 Date/Time at which **make** was run:
 
