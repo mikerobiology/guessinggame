@@ -5,4 +5,3 @@ README.md:
 	echo "guessinggame.sh has **30 lines** of code.  " >> README.md
 
 	date >> README.md
-
